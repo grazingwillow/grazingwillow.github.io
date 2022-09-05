@@ -4,7 +4,7 @@ title: "Configure the font and size of a terminal (No GUI)"
 categories: linux, fedora, command-line
 ---
 
-When running a terminal with no GUI installed, the font display might no be too pleasant to look at. This can be arranged with the following.
+When running a terminal with no GUI installed, the font display might not be very pleasant to look at. This can be arranged with the following.
 
 Start by installing console-setup.
 
@@ -12,10 +12,10 @@ Start by installing console-setup.
 sudo dnf install -y console-setup
 ```
 
-After the installation, you will have new terminal ready fonts. 
+After the installation, you will have several fonts to choose from. 
 They'll be located here: ***/usr/share/consolefonts***
 
-You can set the following in your .bashrc or .zshrc file, so that your preferred font is selected at startup. 
+You can set the following in your .bashrc or .zshrc file, so that your preferred text config is selected at startup. 
 
 ```shell
 if [[ $TERM == linux]]
