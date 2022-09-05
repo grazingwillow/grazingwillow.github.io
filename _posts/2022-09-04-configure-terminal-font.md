@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How-to select audio output source via PipeWire. (Fedora 36)"
+title: "Configure the font and size of a terminal (No GUI)"
 categories: linux, fedora, command-line
 ---
 
