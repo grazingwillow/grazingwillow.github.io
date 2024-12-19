@@ -1,4 +1,8 @@
-## Changing File Permissions in Linux: A Comprehensive Guide
+---
+layout: post
+title: "Changing File Permissions in Linux: A Comprehensive Guide"
+categories: linux
+---
 
 File permissions in Linux control who can read, write, and execute a file. This guide provides a detailed overview of how to modify these permissions using the `chmod` command.
 
